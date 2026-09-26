@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f2f2f2;
+    background: #da91ca;
     margin: 0;
     padding: 40px 20px;
 }
@@ -8,7 +8,7 @@ body {
 .to-do-container {
     max-width: 500px;
     margin: auto;
-    background: white;
+    background: pink;
     padding: 25px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
@@ -17,6 +17,7 @@ body {
 h1 {
     text-align: center;
     margin-top: 0;
+    color: #ca32a4;
 }
 
 .subtitle {
